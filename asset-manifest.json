@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://task-management.github.io/task-management/static/css/main.985582f7.css",
+    "main.js": "https://task-management.github.io/task-management/static/js/main.f75ae69c.js",
+    "index.html": "https://task-management.github.io/task-management/index.html",
+    "main.985582f7.css.map": "https://task-management.github.io/task-management/static/css/main.985582f7.css.map",
+    "main.f75ae69c.js.map": "https://task-management.github.io/task-management/static/js/main.f75ae69c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985582f7.css",
+    "static/js/main.f75ae69c.js"
+  ]
+}
